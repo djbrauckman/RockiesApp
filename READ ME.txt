@@ -1,0 +1,14 @@
+GameDay CSV Converter Python File:
+
+1. Rename and/or place the accompanied .py file in your desired directory, copy this directory path
+2. Open the .py file and modify the DATA_DIR variable to the path you specified above
+3. In a command line window, navigate to the directory where the file is located
+4. Use the command 'python DataEngineerProgramming_ex_dbrauckman.py' (or whatever it was renamed to) to run the program 
+5. The program will prompt the user for a date in a YYYY-MM-DD format
+6. a)If the program executes successfully, a CSV file will be placed in the same location specified within the python file
+   b)If the date input is formatted incorrectly the program will exit and will need to be re-run
+
+Note: If you receive a "No module named X" error message you may need to install some of the following dependencies:
+- pip install requests
+- pip install pandas
+ 

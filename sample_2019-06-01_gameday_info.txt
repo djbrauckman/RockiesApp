@@ -1,0 +1,16 @@
+calendar_event_id,id,game_pk,group,game_type,event_time,venue,venue_id,status,ind,inning,top_inning,away_code,away_file_code,away_team_id,away_name_abbrev,away_team_name,away_score,home_code,home_file_code,home_team_id,home_name_abbrev,home_team_name,home_score,gameday_sw,double_header_sw,tbd_flag,game_nbr,series,series_num,media_state
+14-566693-2019-06-01,2019/06/01/minmlb-tbamlb-1,566693,MLB,R,1:10 PM,Tropicana Field,12,Final,F,9,N,min,min,142,MIN,Twins,6,tba,tb,139,TB,Rays,2,P,N,N,1,Regular Season,3,media_dead
+14-567293-2019-06-01,2019/06/01/clemlb-chamlb-1,567293,MLB,R,2:10 PM,Guaranteed Rate Field,4,Final,F,9,N,cle,cle,114,CLE,Indians,5,cha,cws,145,CWS,White Sox,2,P,N,N,1,Regular Season,3,media_dead
+14-564960-2019-06-01,2019/06/01/sfnmlb-balmlb-1,564960,MLB,R,4:05 PM,Oriole Park at Camden Yards,2,Final,F,9,N,sfn,sf,137,SF,Giants,8,bal,bal,110,BAL,Orioles,2,P,N,N,1,Regular Season,2,media_dead
+14-566791-2019-06-01,2019/06/01/kcamlb-texmlb-1,566791,MLB,R,4:05 PM,Globe Life Park in Arlington,13,Final,F,9,Y,kca,kc,118,KC,Royals,2,tex,tex,140,TEX,Rangers,6,P,N,N,1,Regular Season,3,media_dead
+14-566206-2019-06-01,2019/06/01/milmlb-pitmlb-1,566206,MLB,R,4:05 PM,PNC Park,31,Final,F,13,N,mil,mil,158,MIL,Brewers,12,pit,pit,134,PIT,Pirates,10,P,N,N,1,Regular Season,3,media_dead
+14-565248-2019-06-01,2019/06/01/wasmlb-cinmlb-1,565248,MLB,R,4:10 PM,Great American Ball Park,2602,Final,F,9,N,was,was,120,WSH,Nationals,5,cin,cin,113,CIN,Reds,2,P,N,N,1,Regular Season,2,media_dead
+14-567191-2019-06-01,2019/06/01/detmlb-atlmlb-1,567191,MLB,R,4:10 PM,SunTrust Park,4705,Final,F,9,Y,det,det,116,DET,Tigers,5,atl,atl,144,ATL,Braves,10,P,N,N,1,Regular Season,2,media_dead
+14-566401-2019-06-01,2019/06/01/anamlb-seamlb-1,566401,MLB,R,7:15 PM,T-Mobile Park,680,Final,F,9,N,ana,ana,108,LAA,Angels,6,sea,sea,136,SEA,Mariners,3,P,N,N,1,Regular Season,3,media_dead
+14-566596-2019-06-01,2019/06/01/chnmlb-slnmlb-1,566596,MLB,R,7:15 PM,Busch Stadium,2889,Final,F,9,Y,chn,chc,112,CHC,Cubs,4,sln,stl,138,STL,Cardinals,7,P,N,N,1,Regular Season,2,media_dead
+14-567489-2019-06-01,2019/06/01/bosmlb-nyamlb-1,567489,MLB,R,7:15 PM,Yankee Stadium,3313,Final,F,9,Y,bos,bos,111,BOS,Red Sox,3,nya,nyy,147,NYY,Yankees,5,P,N,N,1,Regular Season,2,media_dead
+14-565443-2019-06-01,2019/06/01/tormlb-colmlb-1,565443,MLB,R,9:10 PM,Coors Field,19,Final,F,9,Y,tor,tor,141,TOR,Blue Jays,2,col,col,115,COL,Rockies,4,P,N,N,1,Regular Season,2,media_dead
+14-566115-2019-06-01,2019/06/01/houmlb-oakmlb-1,566115,MLB,R,10:07 PM,Oakland Coliseum,10,Final,F,9,N,hou,hou,117,HOU,Astros,5,oak,oak,133,OAK,Athletics,1,P,N,N,1,Regular Season,2,media_dead
+14-564858-2019-06-01,2019/06/01/nynmlb-arimlb-1,564858,MLB,R,10:10 PM,Chase Field,15,Final,F,11,N,nyn,nym,121,NYM,Mets,5,ari,ari,109,ARI,D-backs,6,P,N,N,1,Regular Season,2,media_dead
+14-565829-2019-06-01,2019/06/01/phimlb-lanmlb-1,565829,MLB,R,10:10 PM,Dodger Stadium,22,Final,F,9,N,phi,phi,143,PHI,Phillies,3,lan,la,119,LAD,Dodgers,4,P,N,N,1,Regular Season,2,media_dead
+14-566304-2019-06-01,2019/06/01/miamlb-sdnmlb-1,566304,MLB,R,10:10 PM,Petco Park,2680,Final,F,9,N,mia,mia,146,MIA,Marlins,9,sdn,sd,135,SD,Padres,3,P,N,N,1,Regular Season,2,media_dead
